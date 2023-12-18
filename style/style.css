@@ -273,7 +273,7 @@ footer{
         margin-right: 10%;
     }
     .menu{
-        transform: translateY(-120%);
+        transform: translateY(-150%);
         transition: transform 1s;
         padding-top: 25px 0;
         position: absolute;
