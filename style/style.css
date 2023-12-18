@@ -260,8 +260,6 @@ footer{
     padding-left: 20px;
     padding-right: 10px;
 }
-
-
 @media (max-width:480px){
     .nav{
         grid-template-columns: 1fr 1fr;
@@ -361,7 +359,7 @@ footer{
     .photo2{
         margin-top: 30px;
     }
-    footer{
+    .footer{
         min-height: 300px;
         max-width: 420px;
     }
@@ -376,5 +374,4 @@ footer{
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: 70px 70px;
     }
-
 }
