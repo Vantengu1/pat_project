@@ -264,6 +264,9 @@ footer{
     body{
         max-width: 480px;
     }
+    .container{
+      max-width: 480px;
+    }
     .nav{
         grid-template-columns: 1fr 1fr;
     }
